@@ -3,7 +3,7 @@
   "displayName": "SilentCoder - Autocomplete Toggle",
   "description": "Toggle autocomplete on/off with timer - Take control of your coding flow",
   "version": "0.0.1",
-  "publisher": "camilo",
+  "publisher": "CamiloCharry",
   "author": {
     "name": "Camilo"
   },
@@ -15,7 +15,6 @@
   "engines": {
     "vscode": "^1.100.0"
   },
-  "icon": "images/icon.png",
   "galleryBanner": {
     "color": "#C80000",
     "theme": "dark"
