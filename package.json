@@ -1,11 +1,32 @@
 {
   "name": "camilo-autocomplete-toggle",
-  "displayName": "autocomplete-toggle",
-  "description": "Toggle autocomplete on/off with timer",
+  "displayName": "SilentCoder - Autocomplete Toggle",
+  "description": "Toggle autocomplete on/off with timer - Take control of your coding flow",
   "version": "0.0.1",
+  "publisher": "camilo",
+  "author": {
+    "name": "Camilo"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Chinyiskan/camilo-autocomplete-toggle"
+  },
   "engines": {
     "vscode": "^1.100.0"
   },
+  "icon": "images/icon.png",
+  "galleryBanner": {
+    "color": "#C80000",
+    "theme": "dark"
+  },
+  "keywords": [
+    "autocomplete",
+    "productivity",
+    "toggle",
+    "timer",
+    "coding flow"
+  ],
   "categories": [
     "Other"
   ],

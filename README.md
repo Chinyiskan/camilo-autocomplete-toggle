@@ -58,7 +58,7 @@ You can customize the extension through VS Code settings:
 
 This extension is open source and we welcome contributions! If you'd like to help improve this extension:
 
-1. Fork the [repository](https://github.com/chinyiskan/camilo-autocomplete-toggle)
+1. Fork the [repository](https://github.com/Chinyiskan/camilo-autocomplete-toggle)
 2. Create a feature branch
 3. Make your changes
 4. Submit a pull request
