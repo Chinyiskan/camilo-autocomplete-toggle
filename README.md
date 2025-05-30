@@ -76,7 +76,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 🐛 Found a Bug?
 
-If you find any issues or have suggestions for improvements, please [open an issue](https://github.com/chinyiskan/camilo-autocomplete-toggle/issues) on our GitHub repository. We appreciate your feedback!
+If you find any issues or have suggestions for improvements, please [open an issue](https://github.com/Chinyiskan/camilo-autocomplete-toggle/issues) on our GitHub repository. We appreciate your feedback!
 
 ---
 
